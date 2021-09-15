@@ -1,0 +1,2 @@
+# proyectotic
+MINTIC
